@@ -54,7 +54,7 @@ Solution Link : https://codeforces.com/contest/1619/submission/307308991
 
 LinkedIn Post Link : https://www.linkedin.com/posts/terminalstack_codeforces-dsa-java-activity-7299103240141307904-vj95
 
-## Codeforces
+## atCoder
 
 Profile Link : https://atcoder.jp/users/UnratedCoder
 
