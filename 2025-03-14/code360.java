@@ -27,38 +27,17 @@ public class code360 {
 		return sb.toString();
 	}
 
-	// Beginners 7 Day Challenge - 5 (Day 3)
-	public static boolean isPrime(int n) {
-		if (n <= 1) {
-			return false;
-		} else if (n == 2) {
-			return true;
+	// Month of Code Challenge - 1 (Day 3)
+	static int[] planetDivision(int n) {
+		// Write your code here.
+		int ans[] = new int[2];
+		if (n % 2 == 0) {
+			ans[0] = n / 2;
+			ans[1] = n / 2;
 		} else {
-			for (int i = 2; i <= Math.sqrt(n); i++) {
-				if (n % i == 0) {
-					return false;
-				}
-			}
+			ans[0] = n / 2 + 1;
+			ans[1] = n - ans[0];
 		}
-		return true;
-	}
-
-	public static boolean checkPrimeAdjacent(int n) {
-		// Write your code here.
-		return isPrime(n - 1) && isPrime(n + 1);
-	}
-
-	// Month of Code Challenge - 1 (Day 1)
-	static String decodeString(String s) {
-		// Write your code here.
-		StringBuilder sb = new StringBuilder();
-		for (char ch : s.toCharArray()) {
-			if (ch == 'z') {
-				sb.append('a');
-			} else {
-				sb.append(++ch);
-			}
-		}
-		return sb.toString();
+		return ans;
 	}
 }

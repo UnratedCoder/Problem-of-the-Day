@@ -26,21 +26,19 @@ LinkedIn Post Link : https://www.linkedin.com/posts/terminalstack_leetcode-dsa-j
 
 Profile Link : https://www.naukri.com/code360/profile/UnratedCoder
 
-Challenge Name : Beginners 7 Day Challenge - 5 (Day 3)
-
 Problem Name : Custom Sort String
 
 Problem Link : https://www.naukri.com/code360/problem-of-the-day/easy
 
 LinkedIn Post Link : https://www.linkedin.com/posts/terminalstack_code360bycodingninjas-naukricode360-codingninjas-activity-7306036204330729472-2EZF
 
-Challenge Name : Month of Code Challenge - 1 (Day 1)
+Challenge Name : Month of Code Challenge - 1 (Day 3)
 
-Problem Name : Decode String
+Problem Name : Planet Division
 
-Problem Link : https://www.naukri.com/code360/problems/decode-string_18711658
+Problem Link : https://www.naukri.com/code360/problems/planet-division_18711660
 
-LinkedIn Post Link : https://www.linkedin.com/posts/terminalstack_code360bycodingninjas-naukricode360-codingninjas-activity-7305831855067398144-RBzq
+LinkedIn Post Link : https://www.linkedin.com/posts/terminalstack_code360bycodingninjas-naukricode360-codingninjas-activity-7306381910232977409--ENl
 
 ## Unstop
 
