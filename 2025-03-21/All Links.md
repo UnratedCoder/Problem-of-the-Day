@@ -26,14 +26,6 @@ LinkedIn Post Link : https://www.linkedin.com/posts/terminalstack_leetcode-dsa-j
 
 Profile Link : https://www.naukri.com/code360/profile/UnratedCoder
 
-Challenge Name : Coding Interview Questions
-
-Problem Name : 4th Highest Element
-
-Problem Link : https://www.naukri.com/code360/problems/fourth-largest-element-in-the-array_1792782
-
-LinkedIn Post Link : https://www.linkedin.com/posts/terminalstack_code360bycodingninjas-naukricode360-codingninjas-activity-7308384664455397376-kbJ4
-
 Challenge Name : 6-Month Code Marathon - 1 (Day 5)
 
 Problem Name : String Sort
@@ -41,6 +33,14 @@ Problem Name : String Sort
 Problem Link : https://www.naukri.com/code360/problems/string-sort_18726772
 
 LinkedIn Post Link : https://www.linkedin.com/posts/terminalstack_code360bycodingninjas-naukricode360-codingninjas-activity-7308915615379968000-QZNW
+
+Challenge Name : Month of Code Challenge - 1 (Day 10)
+
+Problem Name : Number Pattern
+
+Problem Link : https://www.naukri.com/code360/problems/number-pattern_18728402
+
+LinkedIn Post Link : https://www.linkedin.com/posts/terminalstack_code360bycodingninjas-naukricode360-codingninjas-activity-7308918650026012673-9KfI
 
 ## Unstop
 
