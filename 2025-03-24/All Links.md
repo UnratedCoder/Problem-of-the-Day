@@ -14,15 +14,13 @@ LinkedIn Post Link : https://www.linkedin.com/posts/terminalstack_geeksforgeeks-
 
 Profile Link : https://leetcode.com/u/UnratedCoder
 
-Contest Name : Weekly Contest 442
-
-Problem Name : Maximum Containers on a Ship
+Problem Name : Decode the Message
 
 Problem Link : https://leetcode.com/problems/decode-the-message
 
-Solution Link : https://leetcode.com/contest/weekly-contest-442/submissions/detail/1582831659
+Solution Link : https://leetcode.com/submissions/detail/1584757351
 
-LinkedIn Post Link : https://www.linkedin.com/posts/terminalstack_leetcode-dsa-java-activity-7309499443995631616-Y72V
+LinkedIn Post Link : https://www.linkedin.com/posts/terminalstack_leetcode-dsa-java-activity-7310005146132905985-HJgW
 
 ## Code360 by CodingNinjas
 
