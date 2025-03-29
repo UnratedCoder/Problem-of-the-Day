@@ -43,15 +43,3 @@ Problem Name : WINNER
 Problem Link : https://unstop.com/code/practice/307167
 
 LinkedIn Post Link : https://www.linkedin.com/posts/terminalstack_unstop-dsa-java-activity-7311341040366440448-GG-w
-
-## Codeforces
-
-Profile Link : https://codeforces.com/profile/UnratedCoder
-
-Problem Name : Three Brothers
-
-Problem Link : https://codeforces.com/problemset/problem/2010/B
-
-Solution Link : https://codeforces.com/contest/2010/submission/312710134
-
-LinkedIn Post Link :

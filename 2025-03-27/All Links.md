@@ -69,3 +69,5 @@ Problem Name : Three Brothers
 Problem Link : https://codeforces.com/problemset/problem/2010/B
 
 Solution Link : https://codeforces.com/contest/2010/submission/312710134
+
+LinkedIn Post Link : https://www.linkedin.com/posts/terminalstack_codeforces-dsa-java-activity-7311344280449548288-qjeO
