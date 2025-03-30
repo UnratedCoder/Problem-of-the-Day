@@ -26,7 +26,7 @@ Contest Name : Biweekly Contest 153
 
 Problem Name : Reverse Degree of a String
 
-Problem Link : https://leetcode.com/problems/reverse-degree-of-a-string
+Problem Link : https://leetcode.com/contest/biweekly-contest-153/problems/reverse-degree-of-a-string
 
 Solution Link : https://leetcode.com/contest/biweekly-contest-153/submissions/detail/1590137772
 
