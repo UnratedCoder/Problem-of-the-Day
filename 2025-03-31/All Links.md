@@ -43,15 +43,3 @@ Problem Name : FIBONACCI WITH A TWIST
 Problem Link : https://unstop.com/code/practice/506970
 
 LinkedIn Post Link : https://www.linkedin.com/posts/terminalstack_unstop-potd-dsa-activity-7312528196661334016-69OR
-
-## CodeForces
-
-Profile Link : https://codeforces.com/profile/UnratedCoder
-
-Problem Name :
-
-Problem Link :
-
-Solution Link :
-
-LinkedIn Post Link :
