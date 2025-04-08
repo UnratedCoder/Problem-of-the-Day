@@ -54,4 +54,4 @@ Problem Link : https://codeforces.com/contest/519/problem/A
 
 Solution Link : https://codeforces.com/contest/519/submission/314667993
 
-LinkedIn Post Link : https://www.linkedin.com/posts/terminalstack_codeforces-dsa-java-activity-7315068666398601217-zYR2
+LinkedIn Post Link : https://www.linkedin.com/posts/terminalstack_codeforces-dsa-java-activity-7315440587338317824-elyi
