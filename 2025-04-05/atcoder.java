@@ -3,7 +3,7 @@ import java.util.*;
 public class atcoder {
 
     // Task A - ABC400 Party
-    public static void main(String[] args) {
+    public static void taskA(String[] args) {
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();
         scan.close();
