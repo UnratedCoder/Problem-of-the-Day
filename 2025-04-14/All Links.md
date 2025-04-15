@@ -4,7 +4,7 @@
 
 Profile Link : https://www.geeksforgeeks.org/user/unratedcoder
 
-Challenge Name : GfG 160 - 160 Days of Problem Solving (Day 152)
+Challenge Name : GfG 160 - 160 Days of Problem Solving (Day 151)
 
 Problem Name : Alien Dictionary
 
