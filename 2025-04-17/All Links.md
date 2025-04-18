@@ -10,7 +10,7 @@ Problem Name : Minimum Weight Cycle
 
 Problem Link : https://www.geeksforgeeks.org/problems/minimum-weight-cycle/1
 
-LinkedIn Post Link : https://www.linkedin.com/posts/terminalstack_geeksforgeeks-potd-dsa-activity-7318464026621956097--4E-?
+LinkedIn Post Link : https://www.linkedin.com/posts/terminalstack_geeksforgeeks-potd-dsa-activity-7318464026621956097--4E-
 
 ## LeetCode
 
