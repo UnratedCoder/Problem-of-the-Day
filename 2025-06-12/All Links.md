@@ -19,7 +19,6 @@ Profile Link : https://leetcode.com/u/UnratedCoder
 Challenge Name : LeetCode Problem (Problem of the Day)
 
 Problem Name : Maximum Difference Between Adjacent Elements in a Circular Array
-Solved
 
 Problem Link : https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array
 
