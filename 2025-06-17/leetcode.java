@@ -2,7 +2,7 @@ import java.util.*;
 
 public class leetcode {
 
-    // LeetCode Problem (Problem of the Day)
+    // LeetCode Problem
     public boolean checkIfExist(int[] arr) {
         HashSet<Integer> set = new HashSet<>();
         for (int el : arr) {
