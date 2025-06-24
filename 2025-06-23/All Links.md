@@ -16,7 +16,7 @@ LinkedIn Post Link : https://www.linkedin.com/posts/terminalstack_geeksforgeeks-
 
 Profile Link : https://leetcode.com/u/UnratedCoder
 
-Challenge Name : LeetCode Problem (Problem of the Day)
+Challenge Name : LeetCode Problem
 
 Problem Name : Make Array Zero by Subtracting Equal Amounts
 
