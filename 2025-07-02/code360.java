@@ -2,20 +2,23 @@ import java.util.*;
 
 public class code360 {
 
-	// Problem of the Day (Easy)
-	public static ArrayList<Integer> findSubmatrixSum(ArrayList<ArrayList<Integer>> arr,
-			ArrayList<ArrayList<Integer>> queries) {
-		// Write your code here
+	// Coding Interview Questions
+	static ArrayList<Integer> nextSmallerElement(ArrayList<Integer> arr, int n) {
+		// Write your code here.
 		ArrayList<Integer> result = new ArrayList<>();
-		for (int i = 0; i < queries.size(); i++) {
-			int sum = 0;
-			for (int j = queries.get(i).get(0); j <= queries.get(i).get(2); j++) {
-				for (int k = queries.get(i).get(1); k <= queries.get(i).get(3); k++) {
-					sum += arr.get(j).get(k);
-				}
+		Stack<Integer> s = new Stack<>();
+		for (int i = n - 1; i >= 0; i--) {
+			while (!s.isEmpty() && s.peek() >= arr.get(i)) {
+				s.pop();
 			}
-			result.add(sum);
+			if (s.isEmpty()) {
+				result.add(-1);
+			} else {
+				result.add(s.peek());
+			}
+			s.push(arr.get(i));
 		}
+		Collections.reverse(result);
 		return result;
 	}
 }
