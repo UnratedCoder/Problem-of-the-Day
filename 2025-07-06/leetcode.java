@@ -1,6 +1,6 @@
 public class leetcode {
 
-    // LeetCode Problem (Problem of the Day)
+    // LeetCode Problem
     public int[][] flipAndInvertImage(int[][] image) {
         for (int i = 0; i < image.length; i++) {
             int left = 0, right = image.length - 1;
