@@ -63,3 +63,23 @@ Problem Link : https://codeforces.com/problemset/problem/144/A
 Solution Link : https://codeforces.com/contest/144/submission/328621842
 
 LinkedIn Post Link : https://www.linkedin.com/posts/terminalstack_codeforces-dsa-java-activity-7349704249800376320-REVS
+
+## AtCoder
+
+Profile Link : https://atcoder.jp/users/UnratedCoder
+
+Contest Name : AtCoder Beginner Contest 414
+
+Problem Name 1 : Streamer Takahashi
+
+Problem Link 1 : https://atcoder.jp/contests/abc414/tasks/abc414_a
+
+Solution Link 1 : https://atcoder.jp/contests/abc414/submissions/67539943
+
+Problem Name 2 : String Too Long
+
+Problem Link 2 : https://atcoder.jp/contests/abc414/tasks/abc414_b
+
+Solution Link 2 : https://atcoder.jp/contests/abc414/submissions/67545970
+
+LinkedIn Post Link : https://www.linkedin.com/posts/terminalstack_atcoder-atcodercontest-atcoderbeginnercontest-activity-7349815472516653056-5Nok
