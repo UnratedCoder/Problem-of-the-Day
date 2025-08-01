@@ -2,7 +2,7 @@ import java.util.*;
 
 public class unstop {
 
-    // Unstop Code Conquest Problem (Problem of the Day)
+    // Unstop Code Conquest Problem
     public static void solve(int[] arr) {
         // Write your logic here.
         HashMap<Integer, Integer> first = new HashMap<>();
