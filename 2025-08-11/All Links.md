@@ -44,7 +44,7 @@ Profile Link : https://unstop.com/u/terminalStack
 
 Challenge Name : Unstop Code Conquest Problem
 
-Problem Name : FIND POSSIBLE WORDSs
+Problem Name : FIND POSSIBLE WORDS
 
 Problem Link : https://unstop.com/code/practice/250524
 
