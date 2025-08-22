@@ -56,7 +56,7 @@ Profile Link : https://codeforces.com/profile/UnratedCoder
 
 Challenge Name : CodeForces Problem
 
-Problem Name : Doors and Keyss
+Problem Name : Doors and Keys
 
 Problem Link : https://codeforces.com/problemset/problem/1644/A
 
