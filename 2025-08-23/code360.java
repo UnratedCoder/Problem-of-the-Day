@@ -1,6 +1,6 @@
 public class code360 {
 
-	// Problem of the Day (Easy)
+	// Coding Interview Questions
 	public static int getValue(char ch) {
 		switch (ch) {
 			case 'I':
